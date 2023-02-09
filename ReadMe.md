@@ -1,3 +1,5 @@
+# Concordium-Hackathon-Task-2 - Deploy Your First Smart Contract
+
 # setup
 
 ### 1. Install and init project
